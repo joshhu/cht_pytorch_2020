@@ -36,6 +36,7 @@
 * 16 - MNIST optimizatons.ipynb
 * 17 - MNIST_on_GPU(tf+keras).ipynb
 * 18 - MNIST_on_TPU(tf+keras).ipynb
+* 19 - MNIST_on_TPU_PyTorch.ipynb
 
 ## 聯絡方式
 
